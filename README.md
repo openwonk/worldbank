@@ -42,6 +42,6 @@ func main() {
 
 <hr>
 <small>
-<strong>OpenWonk &copy; 2015 </strong>
+<strong>OpenWonk &copy; 2015 MIT License</strong>
 </small>
 
